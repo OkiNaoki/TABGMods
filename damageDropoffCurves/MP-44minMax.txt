@@ -1,0 +1,2 @@
+Start damage: 100.0%
+End damage: 80.00930000000001
